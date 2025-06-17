@@ -1,2 +1,3 @@
 local/
 .env
+02-dataframe-analysis/data.parquet
